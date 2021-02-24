@@ -5,7 +5,7 @@ name: "Build and deploy Github pages"
 on:
   push:         # <- Déclenché lorsque l'on pousse du code...
     branches:
-      - main  # <- ... mais seulement sur la branche "main"
+      - master  # <- ... mais seulement sur la branche "main"
 
 jobs:
 
