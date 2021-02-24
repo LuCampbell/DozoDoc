@@ -5,7 +5,7 @@ name: "Build and deploy Github pages"
 on:
   push:         # <- Déclenché lorsque l'on pousse du code...
     branches:
-      - master  # <- ... mais seulement sur la branche "main"
+      - master  # <- ... mais seulement sur la branche "master"
 
 jobs:
 
@@ -35,7 +35,7 @@ jobs:
         run: |
           pip3 install setuptools
           pip3 install sphinx recommonmark
-          pip3 install sphinx-material
+          pip3 install insegel
       - name: "Build Sphinx Doc"
         run: |
           make html
