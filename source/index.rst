@@ -1,15 +1,27 @@
-.. DozoDoc documentation master file, created by
-   sphinx-quickstart on Wed Feb 10 15:25:35 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Welcome to autoDocs's documentation!
+====================================
 
-Welcome to DozoDoc's documentation!
-===================================
-
+Summary:
+=================
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents
-   
-   code
-   summary
-   
+    :maxdepth: 2
+    
+    faq
+    guide
+    tutorial
+    license
+
+
+A bit of code
++++++++++++++
+
+.. automodule:: example1.py
+    :members:
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
