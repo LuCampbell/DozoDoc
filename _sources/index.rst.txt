@@ -1,4 +1,4 @@
-Bienvenue sur la Documentation DEDIZ !!
+Bienvenue sur la Documentation https://dediz.co !
 ====================================
 
 Auteurs de la documentation 
