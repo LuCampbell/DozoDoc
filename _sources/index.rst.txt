@@ -8,14 +8,8 @@ Welcome to DozoDoc's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: 
+   :caption: Contents
    
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-* :ref:`code`
-* :ref:`summary`
+   code
+   summary
+   
