@@ -1,7 +1,7 @@
 Bienvenue sur la Documentation DEDIZ !!
 ====================================
 
-Auteurs
+Auteurs de la documentation :
 ====================================
 
 * **Valentin Harny** _alias_ [@LunarzFR](https://github.com/LunarzFR)
