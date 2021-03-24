@@ -18,10 +18,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-
-* Test DozoDoc First Row
-
-
-
-TEST AHAHAHA
