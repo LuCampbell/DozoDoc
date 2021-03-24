@@ -10,8 +10,6 @@ Welcome to DozoDoc's documentation!
    :maxdepth: 2
    :caption: 
    
-   summary
-   code
 
 Indices and tables
 ==================
@@ -19,3 +17,5 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :ref:`code`
+* :ref:`summary`
