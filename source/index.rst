@@ -1,4 +1,4 @@
-Welcome to autoDocs's documentation!
+Bienvenue sur la Documentation DEDIZ !!
 ====================================
 
 Summary:
@@ -13,6 +13,7 @@ Summary:
     tutorial
     license
     technique
+    fonctionnel
 
 
 Indices and tables
