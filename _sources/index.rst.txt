@@ -1,7 +1,7 @@
 Bienvenue sur la Documentation DEDIZ !!
 ====================================
 
-Auteurs de la documentation :
+Auteurs de la documentation 
 ====================================
 
 * **Valentin Harny** : https://github.com/LunarzFR
@@ -10,7 +10,7 @@ Auteurs de la documentation :
 * **Antonin Catrix** : https://github.com/Catrx
 * **Clement Vinualez** : https://github.com/Vinualez
 
-Sommaire :
+Sommaire 
 =================
 .. toctree::
     :maxdepth: 2
