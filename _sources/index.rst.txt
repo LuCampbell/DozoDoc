@@ -12,6 +12,7 @@ Summary:
     guide
     tutorial
     license
+    technique
 
 
 Indices and tables
