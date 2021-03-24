@@ -1,5 +1,5 @@
 Code Documentation
 ==================
 
-.. automodule:: test
+.. automodule:: example1
     :members:
