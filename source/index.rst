@@ -14,13 +14,6 @@ Summary:
     license
 
 
-A bit of code
-+++++++++++++
-
-.. automodule:: example1.py
-    :members:
-
-
 Indices and tables
 ==================
 
