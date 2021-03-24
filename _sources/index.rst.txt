@@ -12,3 +12,10 @@ Welcome to DozoDoc's documentation!
    
    summary
    code
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
