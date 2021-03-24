@@ -10,16 +10,17 @@ Auteurs de la documentation :
 * **Antonin Catrix** _alias_ [@Catrx](https://github.com/Catrx)
 * **Clement Vinualez** _alias_ [@Vinualez](https://github.com/Vinualez)
 
-Summary:
+Sommaire :
 =================
 .. toctree::
     :maxdepth: 2
     :caption: Contents:
     
     code
+    technique
+    fonctionnel
     faq
     guide
     tutorial
     license
-    technique
-    fonctionnel
+
