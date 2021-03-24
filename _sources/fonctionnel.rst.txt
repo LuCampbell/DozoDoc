@@ -39,4 +39,6 @@ Afin de mener à bien ce projet, nous avons décidé de nous répartir le travai
 
 Use Case
 ----------------
+
+image:: https://www.gantt.com/fr/img/gantt-chart-1.png
  
