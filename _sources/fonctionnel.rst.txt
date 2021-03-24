@@ -24,5 +24,19 @@ Chat Demande Aide
 Design de l’application 
  
  
+Gestion de Projet
+----------------
+ 
+Pourquoi n’avons nous pas utilisé la méthode TDD (Test driven development) sur notre projet ?
+Nécessite une bonne connaissance de la technologie hors React Native est un langage connu par la moitié du groupe on ne pouvait pas se permettre.
+Nécessite une bonne compréhension des tests (test unitaire, test acception) cependant c’est la première fois que l’on met en place des test avec React Native
+Nécessite que toute l’équipe soit au même niveau; dans notre groupe il y avait deux personne avec des compétences plus avancé que les autres sur React Native, en effet il exerce cette technologie durant leur alternance.
 
+Méthode Utilisé : 
+Concernant la collaboration au sein de notre groupe de projet, nous avons choisi d’utiliser la méthode agile avec un Scrum Master, l’intervenant Louis LECOQ qui nous a aidé pour ce projet agissait comme le Scrum Master. Il nous indiquait le besoin du client, nous proposait des plannings pour chaque jour, et vérifiait à chaque fin de séance notre travail. Nous avons utilisé divers outils afin de travailler de façon efficace entre nous.
+Afin de mener à bien ce projet, nous avons décidé de nous répartir le travail pour être le plus productif et rapide possible avec l’utilisation de l’outil de gestion de projet Trello, cet outil en ligne permet de se répartir, d'organiser les tâches prévues et de définir leurs ordres de priorité de façon amusante, souple et enrichissante.
+
+
+Use Case
+----------------
  
